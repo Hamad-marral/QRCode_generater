@@ -10,7 +10,7 @@ A Python script to generate QR codes using the `qrcode` library and save them as
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/QRCode_generator.git
+    git clone https://github.com/hamad-marral/QRCode_generator.git
     ```
 
 2. Install the required dependencies:
