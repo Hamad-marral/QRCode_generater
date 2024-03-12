@@ -1,7 +1,7 @@
 
 # QRCode Generator
 
-![QRCode Generator](https://img.shields.io/github/license/hamad-maarral/QRCode_generator)
+![QRCode Generator](https://github.com/Hamad-marral/QRCode_generater.git)
 
 A Python script to generate QR codes using the `qrcode` library and save them as images.
 
@@ -10,7 +10,7 @@ A Python script to generate QR codes using the `qrcode` library and save them as
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/hamad-marral/QRCode_generator.git
+    https://github.com/Hamad-marral/QRCode_generater.git
     ```
 
 2. Install the required dependencies:
